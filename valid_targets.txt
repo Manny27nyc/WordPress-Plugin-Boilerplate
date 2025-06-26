@@ -1,0 +1,26 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./plugin-name/index.php
+./plugin-name/includes/class-plugin-name-i18n.php
+./plugin-name/includes/index.php
+./plugin-name/includes/class-plugin-name-activator.php
+./plugin-name/includes/class-plugin-name-deactivator.php
+./plugin-name/includes/class-plugin-name-loader.php
+./plugin-name/includes/class-plugin-name.php
+./plugin-name/admin/index.php
+./plugin-name/admin/js/plugin-name-admin.js
+./plugin-name/admin/class-plugin-name-admin.php
+./plugin-name/admin/partials/plugin-name-admin-display.php
+./plugin-name/uninstall.php
+./plugin-name/public/index.php
+./plugin-name/public/js/plugin-name-public.js
+./plugin-name/public/class-plugin-name-public.php
+./plugin-name/public/partials/plugin-name-public-display.php
+./plugin-name/README.txt
+./plugin-name/plugin-name.php
+./plugin-name/LICENSE.txt
+./valid_targets.txt
